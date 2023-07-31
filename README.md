@@ -164,4 +164,4 @@ cv::imshow 関数で画面表示するのに、さらなる遅延も加算され
 * リファクタしないとコードが汚い
 
 # 参考
-カメラ技術の基礎的事項をスライド (工事中) にまとめています。
+カメラ技術の基礎的事項を[スライド](https://docs.google.com/presentation/d/1HmpGusV4Bv9vF_dcC_rle8ZeofpjLloAQP801PG8H9A/edit?usp=sharing)にまとめています。
